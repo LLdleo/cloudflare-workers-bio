@@ -1,6 +1,6 @@
 # 👷 `worker-template` Hello World
 
-A template for kick starting a Cloudflare worker project.
+A Cloudflare worker project for [Cloudflare General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment/).
 
 [`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
 
