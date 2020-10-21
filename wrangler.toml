@@ -1,0 +1,6 @@
+name = "cloudflare-general-assignment"
+type = "javascript"
+account_id = "7f6030395704f76999809451ba1cce70"
+workers_dev = true
+route = ""
+zone_id = ""
